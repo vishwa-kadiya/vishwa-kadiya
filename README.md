@@ -1,16 +1,25 @@
-## Hi there 👋
+# Vishwa Kadiya
 
-<!--
-**vishwa-kadiya/vishwa-kadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+Student | Open to opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+Projects and work will be added here.
+
+## Skills & Tools
+
+- Python
+- Git & GitHub
+- Problem Solving
+
+## Currently Working On
+
+- Building my first projects
+- Improving programming fundamentals
+- Exploring different areas of technology
+
+## Contact
+
+[LinkedIn](coming.soon) • [Email](vishwas.kadia@gmail.com)
